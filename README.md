@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @clr1000
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning about crytocurrencies
+- 🌱 I’m currently learning about cryptocurrencies
 - 💞️ I’m looking to collaborate on Dero.
 - 📫 How to reach me clr1000@icloud.com
 
